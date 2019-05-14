@@ -13,10 +13,18 @@
     width:30%;
     float: right;
 }
-.logo-1~.logo-3 img{
+.logo-1 img{
+    width:100%;
+}
+.logo-3 img{
     width:100%;
 }
 .title{
     width:100%;
 }
-.title img{width:100%}
+.title img,.nva{width:100%}
+.icon{
+    width:50%;
+    float: left;
+}
+.fotter{width:100%}
