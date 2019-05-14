@@ -22,9 +22,16 @@
 .title{
     width:100%;
 }
-.title img,.nva{width:100%}
+.title img{
+    width:100%;
+}
+.nva{
+    width:100%;
+}
 .icon{
     width:50%;
     float: left;
 }
-.fotter{width:100%}
+.icon img{
+    width:100%;
+}
