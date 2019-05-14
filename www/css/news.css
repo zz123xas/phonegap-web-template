@@ -1,0 +1,27 @@
+.logo{
+    width:100%;
+}
+.logo-1{
+    width:30%;
+    float: left;
+}
+.logo-2{
+    width:40%;
+    display: block;
+}
+.logo-3{
+    width:30%;
+    float: right;
+}
+.logo-1 img{
+    width:100%;
+}
+.logo-3 img{
+    width:100%;
+}
+.title{
+    width:100%;
+}
+.title img{
+    width:100%;
+}
